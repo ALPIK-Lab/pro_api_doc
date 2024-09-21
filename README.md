@@ -1,4 +1,4 @@
-# Pro API documentation
+# Pro API v1 documentation
 
 _Updated on September the 21th 2024_
 
