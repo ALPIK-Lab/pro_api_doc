@@ -1,5 +1,3 @@
-# pro_api_doc
-
 # Pro API documentation
 
 _Updated on September the 21th 2024_
